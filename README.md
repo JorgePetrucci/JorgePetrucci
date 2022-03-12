@@ -26,5 +26,4 @@
 <a href="www.linkedin.com/in/jorge-petrucci-junior-47b96b190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:jjpetrucci@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
   
- ![ Animação de cobra ](https://github.com/JorgePetrucci/JorgePetrucci/blob/output/github-contribution-grid-snake.svg)
-</div>
+  </div>
